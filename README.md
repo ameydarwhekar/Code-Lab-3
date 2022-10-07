@@ -34,4 +34,6 @@ Lastly, execute both these steps.
 python /app/app/manage.py migrate
 <br>python manage.py runserver 0.0.0.0:8000
 
+Verify results and table logs by going on localhost and logging in. Thank you!
+
 Submitted by Amey Darwhekar
