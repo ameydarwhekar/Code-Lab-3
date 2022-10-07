@@ -6,7 +6,8 @@ Please execute in following order:
 
 While you are in the db folder
 <br>docker build -t mydb .
-<br>While you are in the dba folder
+
+While you are in the dba folder
 <br>docker build -t mydba
 
 When you are in public folder
