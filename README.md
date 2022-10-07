@@ -8,17 +8,15 @@ While you are in the db folder
 <br>docker build -t mydb .
 
 <br>While you are in the dba folder
-
 <br>docker build -t mydba
 
 When you are in public folder
-
-docker build -t my_django .
+<br>docker build -t my_django .
 
 For creating network
 
 docker network create mynetwork
-docker network ls
+<br>docker network ls
 
 For Running
 
