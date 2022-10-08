@@ -32,6 +32,7 @@ django-admin startproject app
 Lastly, execute both these steps.
 
 python /app/app/manage.py migrate
+cd app
 <br>python manage.py runserver 0.0.0.0:8000
 
 Verify results and table logs by going on localhost and logging in. Thank you!
